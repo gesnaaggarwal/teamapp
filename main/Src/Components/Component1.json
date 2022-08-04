@@ -68,7 +68,7 @@
         "Name": "Label3",
         "Parent": "Component1",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 0,
+        "PublishOrderIndex": 7,
         "Rules": [
           {
             "Category": "Data",
@@ -354,7 +354,7 @@
         "Name": "Rectangle1",
         "Parent": "Component1",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 2,
+        "PublishOrderIndex": 8,
         "Rules": [
           {
             "Category": "Design",
@@ -496,7 +496,7 @@
         "Name": "Rectangle2",
         "Parent": "Component1",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 3,
+        "PublishOrderIndex": 9,
         "Rules": [
           {
             "Category": "Design",
@@ -638,7 +638,7 @@
         "Name": "Rectangle3",
         "Parent": "Component1",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 4,
+        "PublishOrderIndex": 10,
         "Rules": [
           {
             "Category": "Design",
@@ -780,7 +780,7 @@
         "Name": "Rectangle4",
         "Parent": "Component1",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 5,
+        "PublishOrderIndex": 11,
         "Rules": [
           {
             "Category": "Design",

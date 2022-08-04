@@ -7,7 +7,9 @@ Screen1 As screen:
         ZIndex: =1
 
     Component1_1 As Component1:
-        X: =656
+        Height: =687
+        Width: =608
+        X: =677
         Y: =40
         ZIndex: =2
 
