@@ -6,3 +6,31 @@ Component1 As CanvasComponent:
     Y: =0
     ZIndex: =1
 
+    Rectangle2 As rectangle:
+        Height: =557
+        Width: =63
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    Rectangle3 As rectangle:
+        Height: =557
+        Width: =78
+        X: =170
+        Y: =40
+        ZIndex: =2
+
+    Rectangle4 As rectangle:
+        Height: =557
+        Width: =80
+        X: =340
+        Y: =40
+        ZIndex: =3
+
+    Rectangle5 As rectangle:
+        Height: =557
+        Width: =88
+        X: =512
+        Y: =40
+        ZIndex: =4
+

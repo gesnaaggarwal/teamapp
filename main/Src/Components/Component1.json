@@ -12,7 +12,7 @@
       "Y",
       "ZIndex"
     ],
-    "LastModifiedTimestamp": "637952520223448993",
+    "LastModifiedTimestamp": "637952519840945330",
     "Name": "Component1",
     "Rules": [
       {
@@ -25,31 +25,31 @@
         "Category": "Design",
         "InvariantScript": "640",
         "Property": "Height",
-        "RuleProviderType": "Unknown"
+        "RuleProviderType": "System"
       },
       {
         "Category": "Design",
         "InvariantScript": "640",
         "Property": "Width",
-        "RuleProviderType": "Unknown"
+        "RuleProviderType": "System"
       },
       {
         "Category": "Design",
         "InvariantScript": "0",
         "Property": "X",
-        "RuleProviderType": "Unknown"
+        "RuleProviderType": "System"
       },
       {
         "Category": "Design",
         "InvariantScript": "0",
         "Property": "Y",
-        "RuleProviderType": "Unknown"
+        "RuleProviderType": "System"
       },
       {
         "Category": "Design",
         "InvariantScript": "1",
         "Property": "ZIndex",
-        "RuleProviderType": "Unknown"
+        "RuleProviderType": "System"
       }
     ]
   },
@@ -71,7 +71,7 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "637952520223448993",
+  "LastModifiedTimestamp": "637952519840945330",
   "Name": "27e3dc1e973a41deb112daabfbff4d53",
   "OverridableProperties": {},
   "Version": "637952503559431789"
