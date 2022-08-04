@@ -1,2 +1,13 @@
 Screen2 As screen:
 
+    Label4 As label:
+        Text: ="Another screen!"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    Component1_2 As Component1:
+        X: =656
+        Y: =24
+        ZIndex: =2
+
