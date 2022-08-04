@@ -6,17 +6,17 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
+    Label2 As label:
+        Text: ="test text 1"
+        X: =40
+        Y: =640
+        ZIndex: =2
+
     Component1_1 As ComponentNameEditted:
         Height: =687
         Width: =608
         X: =655
         Y: =15
-        ZIndex: =2
-
-    Label2 As label:
-        Text: ="test text 1"
-        X: =40
-        Y: =640
         ZIndex: =2
 
     Star1 As star:
