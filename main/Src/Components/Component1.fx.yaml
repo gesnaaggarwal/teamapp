@@ -8,29 +8,29 @@ Component1 As CanvasComponent:
 
     Rectangle2 As rectangle:
         Height: =557
-        Width: =63
+        Width: =16
         X: =40
         Y: =40
         ZIndex: =1
 
     Rectangle3 As rectangle:
-        Height: =557
-        Width: =78
-        X: =170
+        Height: =474
+        Width: =15
+        X: =235
         Y: =40
         ZIndex: =2
 
     Rectangle4 As rectangle:
         Height: =557
-        Width: =80
-        X: =340
+        Width: =22
+        X: =398
         Y: =40
         ZIndex: =3
 
     Rectangle5 As rectangle:
         Height: =557
-        Width: =88
-        X: =512
+        Width: =31
+        X: =569
         Y: =40
         ZIndex: =4
 
