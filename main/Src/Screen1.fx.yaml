@@ -17,3 +17,10 @@ Screen1 As screen:
         Y: =40
         ZIndex: =2
 
+    Star1 As star:
+        Height: =63
+        Width: =71
+        X: =94
+        Y: =160
+        ZIndex: =3
+
