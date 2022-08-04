@@ -87,6 +87,7 @@
     "FileID": "422fda2d-31a9-4a5e-b80e-3d46344b95ac",
     "Id": "422fda2d-31a9-4a5e-b80e-3d46344b95ac",
     "InstrumentationKey": "",
+    "LocalDatabaseReferences": "{}",
     "Name": "tech talk app",
     "OriginatingVersion": "1.326"
   },
