@@ -30,7 +30,7 @@ Component1 As CanvasComponent:
 
     Label3 As label:
         Text: |-
-            ="Custom component #1 - editted"
+            ="Custom component #1 - editted again"
         Width: =195
         X: =60
         Y: =60
