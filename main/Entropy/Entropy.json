@@ -1,23 +1,94 @@
 {
-  "ComponentIndexes": {},
+  "ComponentIndexes": {
+    "ComponentNameEditted": 3
+  },
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Component1_1": 7,
+    "Component1_2": 17,
+    "ComponentNameEditted": 3,
+    "Icon2": 9,
+    "Icon2_1": 18,
+    "Icon3": 6,
+    "Icon3_1": 15,
+    "Label1": 5,
+    "Label1_1": 13,
+    "Label2": 8,
+    "Label2_1": 16,
+    "Label4": 22,
+    "Label5": 14,
+    "Screen1": 4,
+    "Screen1_1": 12,
+    "Screen2": 21,
+    "Star1": 11,
+    "Star1_1": 20,
+    "Star2": 10,
+    "Star2_1": 19
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "08/04/2022 23:19:11",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
-  "OrderComponentMetadata": {},
-  "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderComponentMetadata": {
+    "27e3dc1e973a41deb112daabfbff4d53": 0
+  },
+  "OrderComponentTemplate": {
+    "27e3dc1e973a41deb112daabfbff4d53": 0
+  },
+  "OrderDataSource": {
+    "LegendSample": 0,
+    "PieChartSample": 1
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "PublishOrderIndices": {},
+  "OrderXMLTemplate": {
+    "icon": 1,
+    "label": 0,
+    "star": 2
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Component1_1": 6,
+    "Component1_2": 16,
+    "ComponentNameEditted": 1,
+    "Icon2": 8,
+    "Icon2_1": 17,
+    "Icon3": 5,
+    "Icon3_1": 14,
+    "Label1": 4,
+    "Label1_1": 12,
+    "Label2": 7,
+    "Label2_1": 15,
+    "Label4": 21,
+    "Label5": 13,
+    "Screen1": 3,
+    "Screen1_1": 11,
+    "Screen2": 20,
+    "Star1": 10,
+    "Star1_1": 19,
+    "Star2": 9,
+    "Star2_1": 18
+  },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0350224,
+    "ControlCount": {
+      "27e3dc1e973a41deb112daabfbff4d53": 3,
+      "icon": 4,
+      "label": 6,
+      "screen": 3,
+      "star": 4
+    },
+    "DeserializationLoadTime": 0.0845337,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
