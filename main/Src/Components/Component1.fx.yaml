@@ -6,13 +6,6 @@ Component1 As CanvasComponent:
     Y: =0
     ZIndex: =1
 
-    Label2 As label:
-        Text: |-
-            ="Custom component #1 "
-        X: =40
-        Y: =40
-        ZIndex: =1
-
     Rectangle1 As rectangle:
         Height: =176
         Width: =534
