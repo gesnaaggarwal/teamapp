@@ -12,7 +12,7 @@ Screen1_1 As screen:
         Y: =640
         ZIndex: =2
 
-    Component1_2 As ComponentNameEditted:
+    Component1_2 As Component1:
         X: =656
         Y: =40
         ZIndex: =2
