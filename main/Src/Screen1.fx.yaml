@@ -13,12 +13,6 @@ Screen1 As screen:
         Y: =40
         ZIndex: =2
 
-    Label2 As label:
-        Text: ="test text 1"
-        X: =40
-        Y: =640
-        ZIndex: =2
-
     Star1 As star:
         Fill: =RGBA(255, 191, 0, 1)
         Height: =63
@@ -32,8 +26,8 @@ Screen1 As screen:
         Height: =126
         Icon: =Icon.Notebook
         Width: =508
-        X: =722
-        Y: =180
+        X: =729
+        Y: =223
         ZIndex: =4
 
     Icon3 As icon.ThumbsUpFilled:
@@ -46,8 +40,8 @@ Screen1 As screen:
         Fill: =RGBA(151, 0, 0, 1)
         Height: =246
         Width: =219
-        X: =190
-        Y: =350
+        X: =94
+        Y: =434
         ZIndex: =6
 
     Button1 As button:
@@ -57,4 +51,10 @@ Screen1 As screen:
         X: =490
         Y: =150
         ZIndex: =7
+
+    Label2 As label:
+        Text: ="test text 1"
+        X: =122
+        Y: =519
+        ZIndex: =8
 
