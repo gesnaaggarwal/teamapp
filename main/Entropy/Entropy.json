@@ -1,6 +1,6 @@
 {
   "ComponentIndexes": {
-    "Component1": 1
+    "Component1": 2
   },
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
@@ -17,12 +17,13 @@
     "Rectangle3": 7,
     "Rectangle4": 8,
     "Screen1": 9,
+    "Screen2": 17,
     "Star1": 16,
     "Star2": 15
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/04/2022 23:08:29",
+  "HeaderLastSavedDateTimeUTC": "08/04/2022 23:08:48",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -61,6 +62,7 @@
     "Rectangle3": 4,
     "Rectangle4": 5,
     "Screen1": 7,
+    "Screen2": 0,
     "Star1": 14,
     "Star2": 13
   },
