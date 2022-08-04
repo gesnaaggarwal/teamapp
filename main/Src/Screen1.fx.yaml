@@ -6,17 +6,11 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
-    Component1_1 As ComponentNameEditted:
-        Height: =687
-        Width: =608
+    Component1_1 As Component1:
+        Height: =662
+        Width: =679
         X: =655
-        Y: =15
-        ZIndex: =2
-
-    Label2 As label:
-        Text: ="test text 1"
-        X: =40
-        Y: =640
+        Y: =40
         ZIndex: =2
 
     Star1 As star:
@@ -29,11 +23,12 @@ Screen1 As screen:
 
     Icon2 As icon.Notebook:
         BorderColor: =RGBA(250, 155, 112, 1)
+        Fill: =RGBA(186, 202, 226, 1)
         Height: =126
         Icon: =Icon.Notebook
         Width: =508
-        X: =722
-        Y: =180
+        X: =729
+        Y: =223
         ZIndex: =4
 
     Icon3 As icon.ThumbsUpFilled:
@@ -46,7 +41,13 @@ Screen1 As screen:
         Fill: =RGBA(151, 0, 0, 1)
         Height: =246
         Width: =219
-        X: =190
-        Y: =350
+        X: =94
+        Y: =434
         ZIndex: =6
+
+    Label2 As label:
+        Text: ="test text 1"
+        X: =122
+        Y: =519
+        ZIndex: =8
 
