@@ -44,3 +44,9 @@ Screen1_1 As screen:
         Y: =321
         ZIndex: =6
 
+    Label5 As label:
+        Text: ="Text"
+        X: =60
+        Y: =60
+        ZIndex: =7
+
