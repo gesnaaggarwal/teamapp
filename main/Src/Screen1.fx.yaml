@@ -24,3 +24,23 @@ Screen1 As screen:
         Y: =160
         ZIndex: =3
 
+    Icon2 As icon.Notebook:
+        Icon: =Icon.Notebook
+        Width: =51
+        X: =98
+        Y: =306
+        ZIndex: =4
+
+    Icon3 As icon.ThumbsUpFilled:
+        Icon: =Icon.ThumbsUpFilled
+        X: =165
+        Y: =306
+        ZIndex: =5
+
+    Star2 As star.star12:
+        Height: =49
+        Width: =53
+        X: =28
+        Y: =321
+        ZIndex: =6
+
