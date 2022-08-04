@@ -6,7 +6,7 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
-    Component1_1 As Component1:
+    Component1_1 As ComponentNameEditted:
         Height: =687
         Width: =608
         X: =677
