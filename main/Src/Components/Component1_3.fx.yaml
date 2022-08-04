@@ -1,0 +1,43 @@
+Component1_3 As CanvasComponent:
+    Fill: =RGBA(0, 0, 0, 0)
+    Height: =640
+    Width: =640
+    X: =0
+    Y: =0
+    ZIndex: =1
+
+    Rectangle2_1 As rectangle:
+        Height: =557
+        Width: =63
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    Rectangle3_1 As rectangle:
+        Height: =557
+        Width: =78
+        X: =170
+        Y: =40
+        ZIndex: =2
+
+    Rectangle4_1 As rectangle:
+        Height: =557
+        Width: =80
+        X: =340
+        Y: =40
+        ZIndex: =3
+
+    Rectangle5_1 As rectangle:
+        Height: =557
+        Width: =88
+        X: =512
+        Y: =40
+        ZIndex: =4
+
+    Label3 As label:
+        Fill: =RGBA(168, 0, 0, 1)
+        Text: ="Duplicated component" 
+        X: =60
+        Y: =60
+        ZIndex: =5
+
