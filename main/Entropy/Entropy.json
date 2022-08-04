@@ -1,23 +1,106 @@
 {
-  "ComponentIndexes": {},
+  "ComponentIndexes": {
+    "Component1": 3
+  },
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Component1": 3,
+    "Component1_1": 12,
+    "Component1_2": 21,
+    "Icon2": 14,
+    "Icon2_1": 23,
+    "Icon3": 11,
+    "Icon3_1": 20,
+    "Label1": 10,
+    "Label1_1": 18,
+    "Label2": 13,
+    "Label2_1": 22,
+    "Label3": 4,
+    "Label4": 27,
+    "Label5": 19,
+    "Rectangle1": 5,
+    "Rectangle2": 6,
+    "Rectangle3": 7,
+    "Rectangle4": 8,
+    "Screen1": 9,
+    "Screen1_1": 17,
+    "Screen2": 26,
+    "Star1": 16,
+    "Star1_1": 25,
+    "Star2": 15,
+    "Star2_1": 24
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "08/04/2022 23:16:23",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
-  "OrderComponentMetadata": {},
-  "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderComponentMetadata": {
+    "27e3dc1e973a41deb112daabfbff4d53": 0
+  },
+  "OrderComponentTemplate": {
+    "27e3dc1e973a41deb112daabfbff4d53": 0
+  },
+  "OrderDataSource": {
+    "LegendSample": 0,
+    "PieChartSample": 1
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "PublishOrderIndices": {},
+  "OrderXMLTemplate": {
+    "icon": 1,
+    "label": 0,
+    "rectangle": 2,
+    "star": 3
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Component1": 1,
+    "Component1_1": 11,
+    "Component1_2": 20,
+    "Icon2": 13,
+    "Icon2_1": 22,
+    "Icon3": 10,
+    "Icon3_1": 19,
+    "Label1": 9,
+    "Label1_1": 17,
+    "Label2": 12,
+    "Label2_1": 21,
+    "Label3": 2,
+    "Label4": 26,
+    "Label5": 18,
+    "Rectangle1": 3,
+    "Rectangle2": 4,
+    "Rectangle3": 5,
+    "Rectangle4": 6,
+    "Screen1": 8,
+    "Screen1_1": 16,
+    "Screen2": 25,
+    "Star1": 15,
+    "Star1_1": 24,
+    "Star2": 14,
+    "Star2_1": 23
+  },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0841393,
+    "ControlCount": {
+      "27e3dc1e973a41deb112daabfbff4d53": 3,
+      "icon": 4,
+      "label": 7,
+      "rectangle": 4,
+      "screen": 3,
+      "star": 4
+    },
+    "DeserializationLoadTime": 0.6586416,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }

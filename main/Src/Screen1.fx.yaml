@@ -9,8 +9,8 @@ Screen1 As screen:
     Component1_1 As Component1:
         Height: =687
         Width: =608
-        X: =677
-        Y: =40
+        X: =655
+        Y: =15
         ZIndex: =2
 
     Label2 As label:
