@@ -7,10 +7,10 @@ Screen1 As screen:
         ZIndex: =1
 
     Component1_1 As Component1:
-        Height: =687
-        Width: =608
+        Height: =662
+        Width: =679
         X: =655
-        Y: =15
+        Y: =40
         ZIndex: =2
 
     Label2 As label:
@@ -49,4 +49,12 @@ Screen1 As screen:
         X: =190
         Y: =350
         ZIndex: =6
+
+    Button1 As button:
+        Height: =114
+        Text: ="Button"
+        Width: =44
+        X: =490
+        Y: =150
+        ZIndex: =7
 
