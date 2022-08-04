@@ -1,47 +1,43 @@
-Screen1 As screen:
+Screen1_1 As screen:
 
-    Label1 As label:
+    Label1_1 As label:
         Text: ="Team app! "
         X: =40
         Y: =40
         ZIndex: =1
 
-    Component1_1 As Component1:
-        Height: =687
-        Width: =608
-        X: =677
+    Component1_2 As Component1:
+        X: =656
         Y: =40
         ZIndex: =2
 
-    Label2 As label:
+    Label2_1 As label:
         Text: ="test text 1"
         X: =40
         Y: =640
         ZIndex: =2
 
-    Star1 As star:
-        Fill: =RGBA(255, 191, 0, 1)
+    Star1_1 As star:
         Height: =63
         Width: =71
         X: =94
         Y: =160
         ZIndex: =3
 
-    Icon2 As icon.Notebook:
-        Height: =126
+    Icon2_1 As icon.Notebook:
         Icon: =Icon.Notebook
-        Width: =508
-        X: =722
-        Y: =180
+        Width: =51
+        X: =98
+        Y: =306
         ZIndex: =4
 
-    Icon3 As icon.ThumbsUpFilled:
+    Icon3_1 As icon.ThumbsUpFilled:
         Icon: =Icon.ThumbsUpFilled
         X: =165
         Y: =306
         ZIndex: =5
 
-    Star2 As star.star12:
+    Star2_1 As star.star12:
         Height: =49
         Width: =53
         X: =28
