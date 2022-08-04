@@ -45,14 +45,6 @@ Screen1 As screen:
         Y: =434
         ZIndex: =6
 
-    Button1 As button:
-        Height: =115
-        Text: ="this is a button"
-        Width: =129
-        X: =490
-        Y: =150
-        ZIndex: =7
-
     Label2 As label:
         Text: ="test text 1"
         X: =122

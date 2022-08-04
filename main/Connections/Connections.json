@@ -1,1 +1,71 @@
-{}
+{
+  "8089ecc6-4a1d-48e0-b06a-5fc52c185fc6": {
+    "connectionParameters": {
+      "workFlowCallbackUri": "https://prod2-28.westus.logic.azure.com:443/workflows/c56339571aaa47558c8461d55f4ae3ef/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=bjRBmqCkOVdnn218VOMlzrZjk09Kd_GRo1TLZ6BjmiI",
+      "workflowEndpoint": "/subscriptions/ac19a6ce-509c-40fe-ab91-370ae29879bb/resourceGroups/72f988bf86f141af91ab2d7cd011db47-bffc6393e1e54ba6a7694b395528b262/providers/Microsoft.Logic/workflows/05b2b8c9-860c-4fb4-a2d0-204c61f156bd",
+      "workflowName": "05b2b8c9-860c-4fb4-a2d0-204c61f156bd",
+      "workflowPath": "/subscriptions/ac19a6ce-509c-40fe-ab91-370ae29879bb/resourceGroups/72f988bf86f141af91ab2d7cd011db47-bffc6393e1e54ba6a7694b395528b262/providers/Microsoft.Logic/workflows/05b2b8c9-860c-4fb4-a2d0-204c61f156bd"
+    },
+    "connectionRef": {
+      "displayName": "Logic flows",
+      "iconUri": "https://connectoricons-df.azureedge.net/master/1.0.1551.2688/logicflows/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_logicflows",
+      "parameterHints": {
+        "workflowEntityId": {},
+        "workflowName": {
+          "value": "05b2b8c9-860c-4fb4-a2d0-204c61f156bd"
+        }
+      },
+      "parameterHintsV2": {
+        "workflowEntityId": {},
+        "workflowName": {
+          "value": "05b2b8c9-860c-4fb4-a2d0-204c61f156bd"
+        }
+      }
+    },
+    "datasets": {},
+    "dataSources": [
+      "Sendapprovalandfollowupviaemail"
+    ],
+    "dependencies": {
+      "shared_approvals": "aa182226-0637-475c-851c-a3b56e109169",
+      "shared_office365": "879d1978-74dd-480c-91b3-9a8ffca870c7"
+    },
+    "dependents": [],
+    "id": "8089ecc6-4a1d-48e0-b06a-5fc52c185fc6"
+  },
+  "879d1978-74dd-480c-91b3-9a8ffca870c7": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "Office 365 Outlook",
+      "iconUri": "https://connectoricons-df.azureedge.net/releases/v1.0.1592/1.0.1592.2970/office365/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_office365"
+    },
+    "datasets": {},
+    "dataSources": [],
+    "dependencies": {},
+    "dependents": [
+      "8089ecc6-4a1d-48e0-b06a-5fc52c185fc6"
+    ],
+    "id": "879d1978-74dd-480c-91b3-9a8ffca870c7"
+  },
+  "aa182226-0637-475c-851c-a3b56e109169": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "Approvals",
+      "iconUri": "https://connectoricons-df.azureedge.net/releases/v1.0.1590/1.0.1590.2954/approvals/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_approvals"
+    },
+    "datasets": {},
+    "dataSources": [],
+    "dependencies": {},
+    "dependents": [
+      "8089ecc6-4a1d-48e0-b06a-5fc52c185fc6"
+    ],
+    "id": "aa182226-0637-475c-851c-a3b56e109169"
+  }
+}
