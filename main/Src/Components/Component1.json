@@ -78,7 +78,7 @@
           },
           {
             "Category": "Data",
-            "InvariantScript": "\"Custom component #1 - editted\"",
+            "InvariantScript": "\"Custom component #1\"",
             "Property": "Text",
             "RuleProviderType": "Unknown"
           },
@@ -216,7 +216,7 @@
           },
           {
             "Category": "Design",
-            "InvariantScript": "195",
+            "InvariantScript": "150",
             "Property": "Width",
             "RuleProviderType": "Unknown"
           },
@@ -898,7 +898,7 @@
       "Y",
       "ZIndex"
     ],
-    "LastModifiedTimestamp": "637952515790013009",
+    "LastModifiedTimestamp": "637952515417931319",
     "Name": "Component1",
     "Rules": [
       {
@@ -957,7 +957,7 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "637952515790013009",
+  "LastModifiedTimestamp": "637952515417931319",
   "Name": "27e3dc1e973a41deb112daabfbff4d53",
   "OverridableProperties": {},
   "Version": "637952503559431789"
