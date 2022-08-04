@@ -46,6 +46,7 @@ Screen1 As screen:
         ZIndex: =6
 
     Label2 As label:
+        Fill: =RGBA(232, 244, 217, 1)
         Text: ="test text 1"
         X: =122
         Y: =519
