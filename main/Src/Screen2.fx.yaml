@@ -85,15 +85,15 @@ Screen2 As screen:
             Width: =8
             ZIndex: =6
 
+    Component1_4 As Component1_3:
+        X: =646
+        Y: =60
+        ZIndex: =3
+
     Button1 As button:
         OnSelect: =Sendapprovalandfollowupviaemail.Run('nirajy@microsoft.com')
         Text: ="Button"
         X: =939
         Y: =480
-        ZIndex: =3
-
-    Component1_4 As Component1_3:
-        X: =646
-        Y: =60
         ZIndex: =3
 
