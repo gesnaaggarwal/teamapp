@@ -13,8 +13,7 @@ Screen2 As screen:
         LoadingSpinner: =LoadingSpinner.Data
         TemplatePadding: =0
         TemplateSize: =104
-        X: =60
-        Y: =60
+        Y: =105
         ZIndex: =2
 
         Image1 As image:
@@ -89,5 +88,12 @@ Screen2 As screen:
     Component1_4 As Component1_3:
         X: =646
         Y: =60
+        ZIndex: =3
+
+    Button1 As button:
+        OnSelect: =Sendapprovalandfollowupviaemail.Run('nirajy@microsoft.com')
+        Text: ="Button"
+        X: =939
+        Y: =480
         ZIndex: =3
 
