@@ -116,7 +116,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label3",
-      "ParentIndex": 0,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -458,7 +458,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle2",
-      "ParentIndex": 1,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -569,7 +569,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle3",
-      "ParentIndex": 2,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -654,7 +654,14 @@
     "Rectangle4": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
-        "Fill",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "RGBA(56, 96, 178, 1)",
+          "InvariantPropertyName": "Fill",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "DisabledFill",
         "PressedFill",
         "HoverFill",
@@ -680,7 +687,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle4",
-      "ParentIndex": 3,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

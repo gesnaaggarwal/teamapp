@@ -24,6 +24,7 @@ Component1 As CanvasComponent:
         ZIndex: =4
 
     Rectangle4 As rectangle:
+        Fill: =Black
         X: =424
         Y: =340
         ZIndex: =5
