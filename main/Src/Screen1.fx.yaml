@@ -26,10 +26,11 @@ Screen1 As screen:
         ZIndex: =3
 
     Icon2 As icon.Notebook:
+        Height: =126
         Icon: =Icon.Notebook
-        Width: =51
-        X: =98
-        Y: =306
+        Width: =508
+        X: =722
+        Y: =180
         ZIndex: =4
 
     Icon3 As icon.ThumbsUpFilled:
