@@ -1,0 +1,30 @@
+Component1 As CanvasComponent:
+    Fill: =RGBA(0, 0, 0, 0)
+    Height: =640
+    Width: =640
+    X: =0
+    Y: =0
+    ZIndex: =1
+
+    Rectangle1 As rectangle:
+        Height: =176
+        Width: =534
+        X: =40
+        Y: =127
+        ZIndex: =2
+
+    Rectangle2 As rectangle:
+        X: =40
+        Y: =340
+        ZIndex: =3
+
+    Rectangle3 As rectangle:
+        X: =232
+        Y: =340
+        ZIndex: =4
+
+    Rectangle4 As rectangle:
+        X: =424
+        Y: =340
+        ZIndex: =5
+
