@@ -8,8 +8,8 @@ Screen1 As screen:
 
     Label2 As label:
         Text: ="test text 1"
-        X: =337
-        Y: =340
+        X: =180
+        Y: =192
         ZIndex: =2
 
     Component1_1 As Component1:
