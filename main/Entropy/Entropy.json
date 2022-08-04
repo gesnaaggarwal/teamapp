@@ -18,7 +18,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/04/2022 22:58:20",
+  "HeaderLastSavedDateTimeUTC": "08/04/2022 22:59:25",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -30,7 +30,10 @@
   "OrderComponentTemplate": {
     "27e3dc1e973a41deb112daabfbff4d53": 0
   },
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "LegendSample": 1,
+    "PieChartSample": 0
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
