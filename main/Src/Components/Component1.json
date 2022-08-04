@@ -1,0 +1,29 @@
+{
+  "ComponentAllowCustomization": true,
+  "ComponentChangedSinceFileImport": true,
+  "ComponentExtraMetadata": {
+    "ComponentDescription": "some componnet"
+  },
+  "ComponentManifest": {
+    "AllowAccessToGlobals": false,
+    "AllowCustomization": true,
+    "Description": "some componnet",
+    "Name": "Component1",
+    "TemplateGuid": "6d4e81805a5e4c70b93cd322e0472b45"
+  },
+  "ComponentType": "CanvasComponent",
+  "CustomGroupControlTemplateName": "",
+  "CustomProperties": [],
+  "FirstParty": true,
+  "Id": "http://microsoft.com/appmagic/Component",
+  "IsComponentLocked": false,
+  "IsComponentTemplate": true,
+  "IsCustomGroupControlTemplate": false,
+  "IsPcfControl": false,
+  "IsPremiumPcfControl": false,
+  "IsWidgetTemplate": false,
+  "LastModifiedTimestamp": "637952520337044383",
+  "Name": "6d4e81805a5e4c70b93cd322e0472b45",
+  "OverridableProperties": {},
+  "Version": "637952519865241656"
+}
