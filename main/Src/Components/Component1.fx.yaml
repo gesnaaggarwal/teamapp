@@ -28,3 +28,10 @@ Component1 As CanvasComponent:
         Y: =340
         ZIndex: =5
 
+    Label3 As label:
+        Text: |-
+            ="Custom component #1"
+        X: =60
+        Y: =60
+        ZIndex: =6
+
