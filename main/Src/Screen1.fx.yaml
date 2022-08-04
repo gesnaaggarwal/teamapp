@@ -46,9 +46,9 @@ Screen1 As screen:
         ZIndex: =6
 
     Button1 As button:
-        Height: =114
-        Text: ="Button"
-        Width: =44
+        Height: =115
+        Text: ="this is a button"
+        Width: =129
         X: =490
         Y: =150
         ZIndex: =7
