@@ -26,8 +26,8 @@ Screen1 As screen:
         Height: =126
         Icon: =Icon.Notebook
         Width: =508
-        X: =722
-        Y: =180
+        X: =729
+        Y: =223
         ZIndex: =4
 
     Icon3 As icon.ThumbsUpFilled:
