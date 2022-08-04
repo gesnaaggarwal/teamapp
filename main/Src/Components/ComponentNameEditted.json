@@ -66,7 +66,7 @@
         "LayoutName": "",
         "MetaDataIDKey": "",
         "Name": "Label3",
-        "Parent": "Component1",
+        "Parent": "ComponentNameEditted",
         "PersistMetaDataIDKey": false,
         "PublishOrderIndex": 2,
         "Rules": [
@@ -352,7 +352,7 @@
         "LayoutName": "",
         "MetaDataIDKey": "",
         "Name": "Rectangle1",
-        "Parent": "Component1",
+        "Parent": "ComponentNameEditted",
         "PersistMetaDataIDKey": false,
         "PublishOrderIndex": 3,
         "Rules": [
@@ -494,7 +494,7 @@
         "LayoutName": "",
         "MetaDataIDKey": "",
         "Name": "Rectangle2",
-        "Parent": "Component1",
+        "Parent": "ComponentNameEditted",
         "PersistMetaDataIDKey": false,
         "PublishOrderIndex": 4,
         "Rules": [
@@ -636,7 +636,7 @@
         "LayoutName": "",
         "MetaDataIDKey": "",
         "Name": "Rectangle3",
-        "Parent": "Component1",
+        "Parent": "ComponentNameEditted",
         "PersistMetaDataIDKey": false,
         "PublishOrderIndex": 5,
         "Rules": [
@@ -778,7 +778,7 @@
         "LayoutName": "",
         "MetaDataIDKey": "",
         "Name": "Rectangle4",
-        "Parent": "Component1",
+        "Parent": "ComponentNameEditted",
         "PersistMetaDataIDKey": false,
         "PublishOrderIndex": 6,
         "Rules": [
@@ -898,44 +898,44 @@
       "Y",
       "ZIndex"
     ],
-    "LastModifiedTimestamp": "637952517708904141",
-    "Name": "Component1",
+    "LastModifiedTimestamp": "637952517936039644",
+    "Name": "ComponentNameEditted",
     "Rules": [
       {
         "Category": "Design",
-        "InvariantScript": "RGBA(0, 0, 0, 0)",
-        "Property": "Fill",
+        "InvariantScript": "1",
+        "Property": "ZIndex",
+        "RuleProviderType": "System"
+      },
+      {
+        "Category": "Design",
+        "InvariantScript": "0",
+        "Property": "Y",
+        "RuleProviderType": "System"
+      },
+      {
+        "Category": "Design",
+        "InvariantScript": "0",
+        "Property": "X",
+        "RuleProviderType": "System"
+      },
+      {
+        "Category": "Design",
+        "InvariantScript": "640",
+        "Property": "Width",
         "RuleProviderType": "System"
       },
       {
         "Category": "Design",
         "InvariantScript": "640",
         "Property": "Height",
-        "RuleProviderType": "Unknown"
+        "RuleProviderType": "System"
       },
       {
         "Category": "Design",
-        "InvariantScript": "640",
-        "Property": "Width",
-        "RuleProviderType": "Unknown"
-      },
-      {
-        "Category": "Design",
-        "InvariantScript": "0",
-        "Property": "X",
-        "RuleProviderType": "Unknown"
-      },
-      {
-        "Category": "Design",
-        "InvariantScript": "0",
-        "Property": "Y",
-        "RuleProviderType": "Unknown"
-      },
-      {
-        "Category": "Design",
-        "InvariantScript": "1",
-        "Property": "ZIndex",
-        "RuleProviderType": "Unknown"
+        "InvariantScript": "RGBA(0, 0, 0, 0)",
+        "Property": "Fill",
+        "RuleProviderType": "System"
       }
     ]
   },
@@ -943,7 +943,7 @@
     "AllowAccessToGlobals": false,
     "AllowCustomization": true,
     "Description": "",
-    "Name": "Component1",
+    "Name": "ComponentNameEditted",
     "TemplateGuid": "27e3dc1e973a41deb112daabfbff4d53"
   },
   "ComponentType": "CanvasComponent",
@@ -957,7 +957,7 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "637952517708904141",
+  "LastModifiedTimestamp": "637952517936039644",
   "Name": "27e3dc1e973a41deb112daabfbff4d53",
   "OverridableProperties": {},
   "Version": "637952503559431789"
