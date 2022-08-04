@@ -13,8 +13,10 @@ Screen1_1 As screen:
         ZIndex: =2
 
     Component1_2 As Component1:
-        X: =656
-        Y: =40
+        Height: =359
+        Width: =827
+        X: =469
+        Y: =321
         ZIndex: =2
 
     Star1_1 As star:
