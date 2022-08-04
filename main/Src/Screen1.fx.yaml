@@ -7,7 +7,9 @@ Screen1 As screen:
         ZIndex: =1
 
     Component1_1 As Component1:
-        X: =656
+        Height: =687
+        Width: =608
+        X: =677
         Y: =40
         ZIndex: =2
 
@@ -18,6 +20,7 @@ Screen1 As screen:
         ZIndex: =2
 
     Star1 As star:
+        Fill: =RGBA(255, 191, 0, 1)
         Height: =63
         Width: =71
         X: =94
@@ -25,10 +28,11 @@ Screen1 As screen:
         ZIndex: =3
 
     Icon2 As icon.Notebook:
+        Height: =126
         Icon: =Icon.Notebook
-        Width: =51
-        X: =98
-        Y: =306
+        Width: =508
+        X: =722
+        Y: =180
         ZIndex: =4
 
     Icon3 As icon.ThumbsUpFilled:
